@@ -1,8 +1,15 @@
+Support now Android 13
+
 ## Donation
 
 Please support my work and continued development with your donation.
 
-[![Buy Me a Pizza](https://img.buymeacoffee.com/button-api/?text=Buy%20Me%20a%20Pizza&emoji=%F0%9F%8D%95&slug=soydev&button_colour=4b5aff&font_colour=ffffff&font_family=Comic&outline_colour=000000&coffee_colour=4b5a
+## Donation
+
+Please support my work and continued development with your donation.
+
+[![Buy Me a Pizza](https://img.buymeacoffee.com/button-api/?text=Buy%20Me%20a%20Pizza&emoji=%F0%9F%8D%95&slug=soydev&button_colour=4b5aff&font_colour=ffffff&font_family=Comic&outline_colour=000000&coffee_colour=4b5aff)](https://buymeacoffee.com/soydev)
+
 
 ## Submitting issues
 
